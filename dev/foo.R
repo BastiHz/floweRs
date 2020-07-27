@@ -101,7 +101,7 @@ print(max_width)
 print(color)
 
 # TODO: Andere Wahrscheinlichkeitsverteilungen für die Auswahl der Parameter nutzen.
-
+# TODO: Probiere es mit anderen Arten von Kurven. Vielleicht Bezier?
 
 
 # Blütenboden
